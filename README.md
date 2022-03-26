@@ -17,6 +17,14 @@ Days: 1
 
 Days: 1
 
+### Advent of Code 2019
+
+Days: 1
+
+### Advent of Code 2020
+
+Days: 1
+
 ## License
 
 Copyright © 2022

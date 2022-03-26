@@ -2,7 +2,6 @@
   (:import (java.security MessageDigest))
   (:require [clojure.string :as str]))
 
-
 (defn md5 [s]
   (let [bytes (.digest (MessageDigest/getInstance "MD5")
                        (.getBytes s "UTF-8"))]
